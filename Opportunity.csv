@@ -1,0 +1,7 @@
+"Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
+114e3b94-721b-4f28-b85c-c33d1ec28dca,ce1814f1-dc1e-48a4-bfc1-991917375668,2085.0,2020-10-19,"#N/A","#N/A",Pipeline,"#N/A",Renew and Amend Opp,"#N/A",10.0,true,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
+222e99ff-75d9-4b9b-8eda-4ba40d72cb05,a5b9d9c1-a914-4fd0-be4b-aad8f5cb8af2,33777.0,2020-10-14,"#N/A","#N/A",Closed,"#N/A",Amend Opp,"#N/A",100.0,false,false,"#N/A",false,"#N/A",false,Closed Won,"#N/A"
+56181644-4251-43eb-9b28-e067fba9554e,"#N/A",20000.0,2020-10-14,"#N/A","#N/A",Pipeline,Advertisement,Test opportunity Latest,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
+95b361c4-116b-4a25-85fb-7e134275b4e7,bda890b1-729a-4b16-a5a8-3e9fd3a5ecfb,31970.0,2020-10-28,"#N/A","#N/A",Pipeline,Advertisement,Test opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
+9cee8fae-d035-4b7f-b91e-327b099fade4,1e9d1f46-6715-46c0-ba4a-9f5ed9ee9e1b,20850.0,2020-10-14,"#N/A","#N/A",Pipeline,"#N/A",Large Account opp,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
+c7ca363b-2d35-4fb6-8e01-3ee00c15df77,62727b94-1ae9-4b1f-b3dd-b3a2792675bd,"#N/A",2020-10-15,"#N/A","#N/A",Pipeline,"#N/A",best lead opp,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
